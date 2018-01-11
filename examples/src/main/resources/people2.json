@@ -1,0 +1,9 @@
+[{"Id" : 1, "name" : "luzsy", "hight" : 172 , "weight": 53},  
+ {"Id" : 2, "name" : "jackuer", "hight" : 179 , "weight":66},  
+ {"Id" : 3, "name" : "mercedeni", "hight" : 180 , "weight": 67},  
+ {"Id" : 4, "name" : "audius", "hight" : 178 , "weight": 71},  
+ {"Id" : 5, "name" : "limborghani", "hight" : 180 , "weight": 73},
+ {"Id" : 6, "name" : "chevolety", "hight" : 173 , "weight": 59},  
+ {"Id" : 7, "name" : "fordens", "hight" : 177 , "weight": 67},  
+ {"Id" : 8, "name" : "porche", "hight" : 183 , "weight": 77},  
+ {"Id" : 9, "name" : "benz", "hight" : 181 , "weight": 69},]
